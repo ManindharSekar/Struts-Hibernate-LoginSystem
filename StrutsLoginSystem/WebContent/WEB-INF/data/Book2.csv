@@ -1,0 +1,11 @@
+id,email,name,city,phone,username,password,activation_token,activated
+1,mani@gmail.com,Manindhar,Thanjavur,234234,Mani,Mani123,d5121da3-01b8-45da-99a5-cbfff39a5e7b,1
+2,jaya@gmail.com,Jayanth,Chennai,987654,Jaya,Jaya123,f6234e0a-8f73-4f3d-9b80-63d32f3bc53a,1
+3,vicky@gmail.com,Vikram,Coimbatore,112233,Vicky,Vicky123,af32b7f5-d55d-45c4-9c84-d19decc46953,1
+4,siva@gmail.com,Sivakumar,Madurai,665544,Siva,Siva123,afcf27f3-13a7-490b-a47f-9118fca3924b,1
+5,harish@gmail.com,Harish Kumar,Salem,987123,Harish,Harish123,d5976e28-0c79-4631-bf34-b6b8e50792e4,1
+6,arun@gmail.com,Arun Prakash,Tirunelveli,654321,Arun,Arun123,02c1fc59-8337-4ae7-b364-8f7bdeba3ca0,1
+7,priya@gmail.com,Priya R,Erode,345678,Priya,Priya123,a7330f59-6b89-4c13-b582-d59c8cba1f1a,1
+8,sundar@gmail.com,Sundar Raj,Vellore,987654,Sundar,Sundar123,56f55df5-35fc-4bc4-a29d-eeb34bcfc839,1
+9,nisha@gmail.com,Nisha,Trichy,223344,Nisha,Nisha123,8a12f8d9-3c71-4bfc-9f80-31ec14a2a53e,1
+10,karthik@gmail.com,Karthik,Karur,556677,Karthik,Karthik123,36f72d21-df7c-44c6-97ca-73d3d44187d2,1
